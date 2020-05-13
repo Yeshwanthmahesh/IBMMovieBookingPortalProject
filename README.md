@@ -14,9 +14,6 @@ Home page
 Home page
 ![](Screenshots/3.png?raw=true)
 
-Home page
-![](Screenshots/4.png?raw=true)
-
 Movie Details page
 ![](Screenshots/5.png?raw=true)
 
