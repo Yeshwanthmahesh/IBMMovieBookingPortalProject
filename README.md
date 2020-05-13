@@ -43,3 +43,18 @@ Payment Details
 
 Ticket Details
 ![](Screenshots/12.png?raw=true)
+
+Admin Console, List all Users
+![](Screenshots/a1.png?raw=true)
+
+Admin Console
+![](Screenshots/a2.png?raw=true)
+
+Admin Console, List all movies
+![](Screenshots/a3.png?raw=true)
+
+Admin Console, search by Id
+![](Screenshots/a4.png?raw=true)
+
+Admin Console, List all Theatres
+![](Screenshots/a5.png?raw=true)
