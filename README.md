@@ -1,4 +1,4 @@
-# IBMMovieBookingPortalProject
+# MovieBookingPortalProject
 Movie Booking portal
 This project is done to demonstrate the usage of Spring Boot and Angular.
 The "MovieBookingAngularSrc contains the src files for the Angular project.
